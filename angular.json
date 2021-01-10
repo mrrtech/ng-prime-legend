@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ng-accordion-prime"
+  "defaultProject": "ng-accordion-prime",
+  "cli": {
+    "analytics": "b03434bc-fa44-4461-8e3e-38eb6479c1b0"
+  }
 }
